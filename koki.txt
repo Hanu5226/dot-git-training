@@ -1,0 +1,1 @@
+An abbreviation for command, cmd is a Microsoft Windows command that opens the Windows command-line interpreter know as Command Prompt.
