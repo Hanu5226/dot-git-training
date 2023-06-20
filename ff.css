@@ -1,0 +1,15 @@
+.imge{
+    background-color: blueviolet;
+    padding: 10px;
+    
+}
+.div1{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+}
+.square{
+    padding-top: 80px
+}
